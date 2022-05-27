@@ -17,11 +17,12 @@
 
 ## ✏
 
- 
-- [فایل پروژه انجام شده در محیط برنامه نویسی B4a](https://github.com/alimohammady/PNU_3991_AR/blob/9c73c7896c5df19a637d609ab62c9228f25e1bd7/Project%20Source.rar)
-- [فایل pdf گزارش](https://github.com/alimohammady/PNU_3991_AR/blob/9c73c7896c5df19a637d609ab62c9228f25e1bd7/Final%20project%20Report.pdf)
-- [فایل ورد گزارش](https://github.com/alimohammady/PNU_3991_AR/blob/9c73c7896c5df19a637d609ab62c9228f25e1bd7/Final%20project%20Report.docx)
-- [ویدیو توضیح قسمت توسعه و پیاده سازی](https://www.aparat.com/v/eKPCU)
+ - [گزارش کارآموزی](https://github.com/alimohammady/novitiate/blob/19302d6a9811688c7436019525cd1274e882f551/Report-Ali%20Mohammadi%20Kordlo.pdf)
+
+- [فرم های پر شده برای کارآموزی](https://github.com/alimohammady/novitiate/blob/main/PNU%20BSc%20Internship%20Forms.zip)
+
+- [چک لیست کارآموزی](https://github.com/alimohammady/novitiate/blob/main/%DA%86%DA%A9%20%D9%84%DB%8C%D8%B3%D8%AA%20%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%D8%A7%D9%85%D9%88%D8%B2%DB%8C.pdf)
+
 
 
 کارهای متفرقه دیگر در ترم گذشته 
